@@ -50,4 +50,4 @@ print("List of seen URLs:")
 for seen_url in seen:
     print(seen_url)
 
-# That's the end of file
+# That's the end of file. Run this to get links from the web crawler.
